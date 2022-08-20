@@ -21,7 +21,8 @@
 
 🔗 &nbsp;**Connect with me:**
 <p align="left">
-<a href="https://github.com/calm2012" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://calm2012.github.io/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=bkIqTmAFSfT4H8HLWH7RzZIu-fAWiiOP&jump_from=webapi" target="blank"><img align="justify" src="https://pub.idqqimg.com/wpa/images/group.png" alt="gautamkrishnar" height="22" width="90" /></a>
-<a href="mailto:calm2012.l@gmail.com" target="blank"><img align="justify" src="https://img.shields.io/badge/-calm2012.l@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calm2012.l@gmail.com)" alt="gautamkrishnar"/></a>
+<a href="https://github.com/calm2012" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="22"/></a>
+<a href="https://calm2012.github.io/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" height="22"/></a>
+<a href="mailto:calm2012.l@gmail.com" target="blank"><img align="justify" src="https://img.shields.io/badge/-calm2012.l@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calm2012.l@gmail.com)" alt="gautamkrishnar" height="22"/></a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=bkIqTmAFSfT4H8HLWH7RzZIu-fAWiiOP&jump_from=webapi" target="blank"><img align="justify" src="https://pub.idqqimg.com/wpa/images/group.png" alt="gautamkrishnar" alt="点击这里添加QQ群" title="点击这里添加QQ群" height="22"/></a>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=412730244&site=qq&menu=yes"><img border="0" src="https://pub.idqqimg.com/wpa/images/counseling_style_52.png" alt="点击这里给我发消息" title="点击这里给我发消息" height="22"/></a>
