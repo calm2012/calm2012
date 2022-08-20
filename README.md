@@ -23,5 +23,5 @@
 <p align="left">
 <a href="https://github.com/calm2012" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://calm2012.github.io/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
-<a href="http://wp.qq.com/wpa/qunwpa?idkey=5d39e3ee1083ec7a56af8e001b98450b610fd8895a0b95504217fc2a60f47220" target="blank"><img align="justify" src="https://pub.idqqimg.com/wpa/images/group.png" alt="gautamkrishnar" height="22" width="90" /></a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=bkIqTmAFSfT4H8HLWH7RzZIu-fAWiiOP&jump_from=webapi" target="blank"><img align="justify" src="https://pub.idqqimg.com/wpa/images/group.png" alt="gautamkrishnar" height="22" width="90" /></a>
 <a href="mailto:calm2012.l@gmail.com" target="blank"><img align="justify" src="https://img.shields.io/badge/-calm2012.l@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calm2012.l@gmail.com)" alt="gautamkrishnar"/></a>
