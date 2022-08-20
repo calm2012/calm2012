@@ -11,15 +11,15 @@
 - ✍️ [Blogger](https://calm2012.github.io/)
 
 
-📈 **GitHub stats**
+📈 **GitHub stats:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calm2012&show_icons=true&theme=tokyonight)
 
-📊 **Most used languages**
+📊 **Most used languages:**
 
 [![calm2012's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calm2012&hide=javascript,html&show_icons=true&theme=tokyonight)](https://github.com/calm2012)
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me:**
 <p align="left">
 <a href="https://github.com/calm2012" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://calm2012.github.io/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
