@@ -12,9 +12,11 @@
 
 
 📈 **GitHub stats**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calm2012&show_icons=true&theme=tokyonight)
 
 📊 **Most used languages**
+
 [![calm2012's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calm2012&hide=javascript,html&show_icons=true&theme=tokyonight)](https://github.com/calm2012)
 
 🔗 &nbsp;**Connect with me**
